@@ -1,0 +1,20 @@
+{
+  "name": "bai-tap-buoi-6",
+  "version": "1.0.0",
+  "description": "Express server + Form đăng ký người dùng",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": ["express", "middleware", "routing"],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "dotenv": "^16.0.3"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
